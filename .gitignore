@@ -1,9 +1,3 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-ceo_comp_data_raw.csv
-ceo_comp_data_imputed.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
