@@ -1,5 +1,5 @@
 # 📊 CEO Compensation Analysis Project
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+
 ## 📜 Executive Summary
 
 This repository contains comprehensive analysis of factors influencing CEO compensation across industries using data from PitchBook. The project examines the relationship between executive pay and various financial and market indicators to develop predictive models and insights for investors, boards, and policymakers.
